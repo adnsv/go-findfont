@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/flopp/go-findfont"
+	"github.com/adnsv/go-findfont"
 )
 
 func main() {
